@@ -19,6 +19,10 @@ install Material Color Scheme via **Package Control: Install Package**. Search f
 3.	Then put the **Material.tmTheme** there
 4.	Select Material Color Scheme by going to **Preferences -> Color Scheme -> Material Color Scheme**
 
+### Using Schemr to install
+
+See https://github.com/benweier/Schemr#installation
+
 ### Atom
 
 Install using `apm install material` or get it [here](https://atom.io/themes/material).
